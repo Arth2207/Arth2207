@@ -7,7 +7,8 @@ na area de desenvolvimento de backend, tenho 21 anos e tenho proatividade e vont
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arth2207&show_icons=true&theme=dracula)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arth2207&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arth2207&show_icons=true&theme=dracula&layout=compact)
 
 
 <div style="display: inline_block"><br>
