@@ -1,7 +1,5 @@
 ## Olá, bem vindo! Eu sou o Arthur Henrique
 
-
-- 🌱 Estou cursando atualmente Analise e desenvolvimento de sistemas na faculdade Una, e também cursando o Alura aprendendo atualmente Phynton
 - 💬 Atualmente estou na faculdade, cursando analise e desenvolvimento de sistemas, na faculdade Una, e tambem aprendendo pela plataforma da Alura, sobre a programação com objetivo de ingressar no mercado de trabalho
 na area de desenvolvimento de backend, tenho 21 anos e tenho proatividade e vontade de aprender
 - 📫 contate-me pelo email: arthurhenrique.cam.rodri@gmail.com
