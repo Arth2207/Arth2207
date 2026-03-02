@@ -1,7 +1,7 @@
 ## Olá, bem vindo! Eu sou o Arthur Henrique
 
 - 💬 Atualmente estou na faculdade, cursando analise e desenvolvimento de sistemas, na faculdade Una, e tambem aprendendo pela plataforma da Alura, sobre a programação com objetivo de ingressar no mercado de trabalho
-na area de desenvolvimento de backend, tenho 22 anos e tenho proatividade e vontade de aprender
+na area de desenvolvimento de backend, tenho 23 anos e tenho proatividade e vontade de aprender
 - 📫 contate-me pelo email: arthurhenrique.cam.rodri@gmail.com
 - Developer Back-End - Data Engenharia 
 
