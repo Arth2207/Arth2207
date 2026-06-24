@@ -1,10 +1,16 @@
 # Arthur Henrique
 
-Backend Developer com experiência em desenvolvimento de sistemas corporativos,
-automações, APIs REST e soluções web em geral.
+Desenvolvedor backend com experiência em ambientes corporativos de médio/grande porte,
+atuando no desenvolvimento de sistemas ERP, automações, regras de negócio e soluções web.
 
-Atuo tanto na camada de negócio quanto na construção de interfaces,
-com foco em qualidade de código e arquitetura.
+No dia a dia trabalho com Java, TypeScript, JavaScript, C# e Python — sempre com foco
+em código limpo, boa arquitetura e soluções que resolvem problemas reais de negócio.
+
+Tenho experiência com o ciclo completo de desenvolvimento: desde modelagem de dados
+e APIs REST até interfaces web, integração com sistemas legados e otimização de queries
+em bases corporativas.
+
+Interesse crescente em arquitetura de software e sistemas distribuídos.
 
 ## Stack
 
